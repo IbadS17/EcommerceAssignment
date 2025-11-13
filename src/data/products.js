@@ -1,0 +1,66 @@
+export const initialProducts = [
+  {
+    id: 1,
+    name: "Laptop",
+    category: "Electronics",
+    price: 1200,
+    image: "https://m.media-amazon.com/images/I/710Natr3OFL._AC_UY218_.jpg",
+  },
+  {
+    id: 2,
+    name: "T-Shirt",
+    category: "Clothing",
+    price: 25,
+    image: "https://m.media-amazon.com/images/I/71jMR9GA9pL._AC_UL320_.jpg",
+  },
+  {
+    id: 3,
+    name: "The Great Gatsby",
+    category: "Books",
+    price: 15,
+    image: "https://m.media-amazon.com/images/I/81ShirsP9zL._AC_UY218_.jpg",
+  },
+  {
+    id: 4,
+    name: "Smartphone",
+    category: "Electronics",
+    price: 800,
+    image: "https://m.media-amazon.com/images/I/610frsvhyBL._AC_UY218_.jpg",
+  },
+  {
+    id: 5,
+    name: "Jeans",
+    category: "Clothing",
+    price: 50,
+    image: "https://m.media-amazon.com/images/I/81Pu378QPbL._AC_UL320_.jpg",
+  },
+  {
+    id: 6,
+    name: "Sapiens",
+    category: "Books",
+    price: 20,
+    image: "https://m.media-amazon.com/images/I/713jIoMO3UL._AC_UY218_.jpg",
+  },
+  {
+    id: 7,
+    name: "Headphones",
+    category: "Electronics",
+    price: 150,
+    image: "https://m.media-amazon.com/images/I/71bUXVCt5EL._AC_UY218_.jpg",
+  },
+  {
+    id: 8,
+    name: "Hoodie",
+    category: "Clothing",
+    price: 40,
+    image:
+      "https://m.media-amazon.com/images/I/41ktfT86WGL._AC_SR250,250_QL65_.jpg",
+  },
+  {
+    id: 9,
+    name: "Atomic Habits",
+    category: "Books",
+    price: 18,
+    image: "https://m.media-amazon.com/images/I/817HaeblezL._AC_UY218_.jpg",
+  },
+];
